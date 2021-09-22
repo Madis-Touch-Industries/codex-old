@@ -57,7 +57,7 @@ npm install -g yarn
 1. Clone the repo
 
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/Madis-Touch-Industries/codex.git
 ```
 
 2. Install packages
@@ -66,10 +66,10 @@ git clone https://github.com/your_username_/Project-Name.git
 yarn
 ```
 
-3. Install packages
+3. Run the Development server
 
 ```sh
-yarn
+yarn start
 ```
 
 ## Usage
