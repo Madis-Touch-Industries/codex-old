@@ -14,7 +14,6 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
     favicon: "img/favicon.ico",
     organizationName: "Madis-Touch-Industries", // Usually your GitHub org/user name.
     projectName: "codex", // Usually your repo name.
-
     presets: [
       [
         "@docusaurus/preset-classic",
@@ -38,10 +37,25 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
         }),
       ],
     ],
-
+    plugins: ["@docusaurus/plugin-google-analytics"],
     themeConfig:
       /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
       ({
+        algolia: {
+          apiKey: process.env.ALGOLIA_KEY,
+          indexName: process.env.INDEX_NAME,
+          // Optional: see doc section below
+          contextualSearch: true,
+          // Optional: see doc section below
+          appId: process.env.ALGOLIA_APP_ID,
+          // Optional: Algolia search parameters
+          searchParameters: {},
+          //... other Algolia params
+        },
+        googleAnalytics: {
+          trackingID: process.env.GA_TRACKING_ID, // Optional fields.
+          anonymizeIP: true, // Should IPs be anonymized?
+        },
         navbar: {
           title: "MTI: DU Codex",
           items: [

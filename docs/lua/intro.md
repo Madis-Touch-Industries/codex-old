@@ -2,34 +2,20 @@
 sidebar_position: 1
 ---
 
-# Welcome In!
+# Getting started
 
 Let's discover the **MTI Codex**.
 
-## Getting Started
+## Slots
 
 Get started by **creating a new site**.
 
 Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
-## Generate a new site
+## Auto configure
 
 Generate a new Docusaurus site using the **classic template**:
 
 ```shell
 npx @docusaurus/init@latest init my-website classic
 ```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
