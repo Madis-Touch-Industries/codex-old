@@ -126,9 +126,9 @@ return `string`
 
 ## load() `function`
 
-setBaseAltitude(altitude) `function`
+## setBaseAltitude(altitude) `function`
 
-setSignalIn(plug,state) `function`
+## setSignalIn(plug,state) `function`
 
 ## show() `function`
 
