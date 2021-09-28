@@ -23,13 +23,13 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
             sidebarPath: require.resolve("./sidebars.js"),
             // Please change this to your repo.
             editUrl:
-              "https://github.com/Madis-Touch-Industries/codex/edit/master/website/",
+              "https://github.com/Madis-Touch-Industries/codex/edit/master/",
           },
           blog: {
             showReadingTime: true,
             // Please change this to your repo.
             editUrl:
-              "https://github.com/Madis-Touch-Industries/codex/edit/master/website/blog/",
+              "https://github.com/Madis-Touch-Industries/codex/edit/master/blog/",
           },
           theme: {
             customCss: require.resolve("./src/css/custom.css"),
