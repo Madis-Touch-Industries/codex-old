@@ -16,9 +16,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
     projectName: "codex", // Usually your repo name.
     presets: [
       [
-        "@docusaurus/preset-classic",
         /** @type {import('@docusaurus/preset-classic').Options} */
-        ({
+        "@docusaurus/preset-classic",
+        {
           docs: {
             sidebarPath: require.resolve("./sidebars.js"),
             // Please change this to your repo.
@@ -34,7 +34,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
           theme: {
             customCss: require.resolve("./src/css/custom.css"),
           },
-        }),
+        },
       ],
     ],
     themeConfig:
