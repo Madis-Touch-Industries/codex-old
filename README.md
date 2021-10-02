@@ -16,9 +16,19 @@
     .
     <a href="https://github.com/Madis-Touch-Industries/codex/issues">Request Feature</a>
   </p>
+  <p align="center">
+    <img href="https://github.com/Madis-Touch-Industries/codex">View Demo</img>
+    .
+    <img href="https://github.com/Madis-Touch-Industries/codex/issues">Report Bug</img>
+    .
+    <img href="https://github.com/Madis-Touch-Industries/codex/issues">Request Feature</img>
+  </p>
 </p>
 
+
 ![Contributors](https://img.shields.io/github/contributors/Madis-Touch-Industries/codex?color=dark-green) ![Stargazers](https://img.shields.io/github/stars/Madis-Touch-Industries/codex?style=social) ![Issues](https://img.shields.io/github/issues/Madis-Touch-Industries/codex) ![License](https://img.shields.io/github/license/Madis-Touch-Industries/codex)
+  
+  
 
 ## Table Of Contents
 
