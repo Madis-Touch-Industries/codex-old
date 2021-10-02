@@ -6,7 +6,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 (
   module.exports = {
     title: "MTI: Du Codex",
-    tagline: "Dinosaurs are cool",
+    tagline: "A helpful guide to Dual Universe",
     url: "https://codex.madistouch.industries",
     baseUrl: "/",
     onBrokenLinks: "throw",
