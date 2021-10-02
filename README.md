@@ -32,6 +32,7 @@
 
 ## Table Of Contents
 
+- [Table Of Contents](#table-of-contents)
 - [Built With](#built-with)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -39,6 +40,7 @@
 - [Usage](#usage)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
+  - [Creating A Pull Request](#creating-a-pull-request)
 - [License](#license)
 - [Authors](#authors)
 - [Acknowledgements](#acknowledgements)
@@ -110,11 +112,12 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/Madis-Touch-Industries/codex/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/Madis-Touch-Industries/codex/blob/master/LICENSE.md) for more information.
 
 ## Authors
 
 - **Snipey** - _Lead Developer_
+- **BlindingBright** - _Lead Documentation_
 
 ## Acknowledgements
 
